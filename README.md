@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aniketkhatal&show_icons=true&locale=en" alt="aniketkhatal" /></p><br><br><br><br><br><br><br><br><hr>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkhatal&" alt="aniketkhatal" /></p>
+<p>![Leetcode Stats](https://leetcard.jacoblin.cool/Aniket1515?theme=dark)</p>
