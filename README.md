@@ -32,5 +32,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkhatal&" alt="aniketkhatal" /></p>
 
-<p>![Leetcode Stats](https://leetcard.jacoblin.cool/Aniket1515?theme=dark)</p>
+
 
