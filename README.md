@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket G. Khatal</h1>
 <h3 align="center">A passionate Full-stack Developer from Bharat</h3><hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AniketKhatal&label=Profile%20views&color=0e75b6&style=flat" alt="AniketKhatal" /> </p><hr>
 
 <img align="right" alt="Coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
