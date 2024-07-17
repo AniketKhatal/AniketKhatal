@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket G. Khatal</h1>
 <h3 align="center">A passionate Full-stack Developer from Bharat</h3><hr>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AniketKhatal" alt="AniketKhatal" /></a> </p><hr>
 
 <img align="right" alt="Coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
