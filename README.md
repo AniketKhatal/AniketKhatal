@@ -96,7 +96,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats-aniket-khatal.vercel.app/?user=AniketKhatal&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0D1117" alt="My GitHub Streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AniketKhatal&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <br/>
