@@ -21,6 +21,9 @@
 <p align="center">
   Concept -->  Create -->  Contribute
 </p>
+<p>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=AniketKhatal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 <br/>
 
 <!-- Social Media Links -->
