@@ -107,7 +107,7 @@
 
 <br/>
 <p align="center">
-  <img alt="Aniket Khatal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketKhatal&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AniketKhatal&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 <p/>
 
 <p align="center">
