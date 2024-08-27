@@ -64,7 +64,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,.net&theme=dark" />
 </p>
 </div>
 
