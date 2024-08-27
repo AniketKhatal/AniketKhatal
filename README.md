@@ -59,7 +59,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=C,CPP,Java,html,css,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,c++,java,html,css,javascript&theme=dark" />
 </p>
 </div>
 
