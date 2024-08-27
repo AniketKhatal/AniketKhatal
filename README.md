@@ -49,7 +49,7 @@
 
 - #### 🎯 2024 Goals: Best in BackendDevelopment 🥷🏻.
 
-- #### 📝 Check out my Articles on: <a href="[https://medium.com/@heyaniketkhatal]" target="_blank">heyaniketkhatal</a>
+- #### 📝 Check out my Articles on: <a href="[https://medium.com/@heyaniketkhatal]" target="_blank">[heyaniketkhatal](https://medium.com/@heyaniketkhatal)</a>
 
 - #### 🙋🏻 Lets connect and build Awesome network.
 
