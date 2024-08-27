@@ -59,14 +59,14 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,c++,java,html,css,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript&theme=dark" />
 </p>
 </div>
 
 ### 🧩 &nbsp;&nbsp;Libraries & Frameworks :
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Bootstrap,react,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,express&theme=dark" />
 </p>
 
 ### ∞ &nbsp; DevOps:
