@@ -84,14 +84,14 @@
 ### 🛠️ &nbsp;Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sts,eclipse,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,bash&theme=dark" />
 </p>
 
 <br/><br/>
 
 <!-- GitHub Activity Tracker -->
 
-## 👨🏻‍💻 Activity Moniter
+## 👨🏻‍💻 Activity Monitor
 
 <br/>
 <p align="center">
