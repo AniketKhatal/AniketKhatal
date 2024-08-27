@@ -13,6 +13,8 @@
   </a>
 </p>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkhatal&" alt="aniketkhatal" /></p>
+
 <h3 align="center"> 
   I'm a Passionate Full Stack Developer based in Bharat 🇮🇳.
 </h3>
