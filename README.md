@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elevenv&label=Profile%20views&color=0e75b6&style=flat" alt="Elevenv" /> </p>
+
 <h3 align="center">👨🏻‍💻 WelCome to My Digital Space 𝌏</h3>
 
 <!-- Banner 
@@ -14,8 +14,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=fdb74e&center=true&vCenter=true&lines=Full+Stack+Developer;Coding;Blue+Sky+Thinker;" alt="Typing SVG"/>
   </a>
 </p>
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Elevenv&label=Profile%20views&color=0e75b6&style=flat" alt="Elevenv" />
+</p>
 <h3 align="center"> 
   I'm a Passionate Full Stack Developer based in Bharat 🇮🇳.
 </h3>
