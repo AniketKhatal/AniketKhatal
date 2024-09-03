@@ -4,7 +4,7 @@
 <!-- Banner -->
 <p align="center">  
   <br>
-  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/AniketBanner.png">
+  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="AniketBanner.png">
 <p/>
 
 
