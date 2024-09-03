@@ -22,9 +22,12 @@
 <p align="center">
   Concept -->  Create -->  Contribute
 </p>
-<p>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AniketKhatal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AniketKhatal&theme=onedark" alt="GitHub Trophies">
+  </a>
+</div>
+
 <br/>
 
 <!-- Social Media Links -->
