@@ -1,12 +1,12 @@
 
 <h3 align="center">👨🏻‍💻 WelCome to My Digital Space 𝌏</h3>
 
-<!-- Banner 
+<!-- Banner -->
 <p align="center">  
   <br>
-  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/banner.png">
+  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/AniketBanner.png">
 <p/>
--->
+
 
 <!-- Typing SVG -->
 <p align ="center">
