@@ -20,10 +20,7 @@
 <h3 align="center"> 
   I'm a Passionate Full Stack Developer based in Bharat 🇮🇳.
 </h3>
-
-<p align="center">
-  Concept -->  Create -->  Contribute
-</p>
+<!-- Patils Statements Concept.Create.Contribute-->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AniketKhatal&theme=onedark" alt="GitHub Trophies">
